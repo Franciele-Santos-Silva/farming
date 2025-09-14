@@ -25,5 +25,3 @@ Este projeto converte vídeos em animações ASCII exibidas no terminal em tempo
 
     ```bash
    python ascii.py
-
-
